@@ -15,6 +15,6 @@ Algoritmo ejercicio_25
 		Leer num;
 	FinMientras
 	Imprimir "La suma de los números pares es ", ac_par;
-	Imprimir "La suma de los números impar es ", ac_impar;
+	Imprimir "La suma de los números impares es ", ac_impar;
 	Imprimir "Fin Proceso";
 FinAlgoritmo
